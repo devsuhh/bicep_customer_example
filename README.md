@@ -1,6 +1,10 @@
 **Azure Resource Deployment Using PowerShell and Bicep**
 
-This repository demonstrates an implementation for deploying Azure resources using PowerShell scripts and Bicep templates. This project was designed for a customer who preferred managing Azure resource deployments via PowerShell, ensuring compatibility across multiple environments.
+This repository demonstrates an implementation for deploying Azure resources using PowerShell scripts and Bicep templates. 
+- This project was designed for a customer who preferred managing Azure resource deployments via PowerShell, ensuring compatibility across multiple environments.
+- The customer wanted resources create for each of their own customers.
+- The project was compelted in two months from initial design request with meetings stetup for feedback and improvement until the customer was satisfied.
+- No prior knowledge of Azure Bicep was known until this project requiring me to use my expertise from previous technology domains.
 
 **Project Overview**
 
